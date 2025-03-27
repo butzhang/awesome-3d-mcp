@@ -32,7 +32,6 @@
 
 - [🖊️ 3D Modeling & Design](#️-3d-modeling--design)
 - [🕹️ Real-Time Engines & Interactivity](#️-real-time-engines--interactivity)
-- [Follow](#follow)
 
 <!-- CONTENT -->
 
