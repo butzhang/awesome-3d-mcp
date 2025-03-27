@@ -1,30 +1,58 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+# Awesome 3D MCP  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+
+<!-- subtitle -->
+
+[//]: # (A template for an awesome list with required conventions out of the box!)
+
+<!-- image -->
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="" />
+</a>
+
+<!-- description -->
+
+[//]: # (A one line description of the product or tool. See)
+
+[//]: # ([awesome-firebase]&#40;https://github.com/jthegedus/awesome-firebase&#41; for an)
+
+[//]: # (example.)
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [🖊️ 3D Modeling & Design](#️-3d-modeling--design)
+- [🕹️ Real-Time Engines & Interactivity](#️-real-time-engines--interactivity)
+- [Follow](#follow)
+
+<!-- CONTENT -->
+
+## 🖊️ 3D Modeling & Design
+
+- [Blender MCP](https://github.com/ahujasid/blender-mcp)
+- [Rhino MCP](https://github.com/jingcheng-chen/rhinomcp)
+
+## 🕹️ Real-Time Engines & Interactivity
+
+- [Unity MCP](https://github.com/justinpbarnett/unity-mcp)
+
+<!-- END CONTENT -->
+
+
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
